@@ -1,0 +1,6 @@
+export const LOGIN = "LOGIN";
+export const GET_ITEMS_REQUESTED = "GET_ITEMS_REQUESTED";
+export const GET_ITEMS_SUCCESS = "GET_ITEMS_SUCCESS";
+export const GET_ITEMS_ERROR = "GET_ITEMS_ERROR";
+export const ADD_PANEL_DATA = "ADD_PANEL_DATA";
+export const ADD_PREFERENCE = "ADD_PREFERENCE";
